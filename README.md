@@ -120,8 +120,8 @@ Real-time analytics integration
 Expanded global dataset analysis
 
 👨‍💻 Author
-Mustafa Nadaf
-MCA Student | Data Science & AI Enthusiast
+Aseef Pinjar
+Data Science & Data Analytics AI Enthusiast
 📍 India
 
 ⭐ If You Like This Project
